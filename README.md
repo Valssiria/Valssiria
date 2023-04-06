@@ -1,4 +1,4 @@
-### Hi there 🧑‍💻
+### Olá 🧑‍💻
 - Valssiria Menezes 
 
 Sou uma Programadora front-end, estou estudando e criando Projetos com as seguintes tecnologias:
@@ -17,7 +17,7 @@ https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascri
 
 ![Valssiria Menezes stats](https://github-readme-stats.vercel.app/api?username=Valssiria&show_icons=true&theme=transparent)
 
-[![Meus idiomas](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)] (https://github.com/anuraghazra/github-readme-stats)
+[ ! [Meus idiomas] ( https://
 
 
 
