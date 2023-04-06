@@ -6,6 +6,7 @@ HTML5 CSS e estou iniciando o novo aprendizado com a ferramentas JAVASCRIPT e RE
 
 Meu foco é evoluí e aperfeiçoar mais meu estudo e criação de novos projetos.
 
+https://en.wikipedia.org/wiki/HTML5
 
 
 <img scr="
