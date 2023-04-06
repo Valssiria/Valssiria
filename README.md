@@ -17,7 +17,7 @@ https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascri
 
 ![Valssiria Menezes stats](https://github-readme-stats.vercel.app/api?username=Valssiria&show_icons=true&theme=transparent)
 
-[ ! [Meus idiomas] ( https://
+[![Principais idiomas](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme- Estatísticas)
 
 
 
