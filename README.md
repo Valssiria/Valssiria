@@ -1,10 +1,10 @@
-### Olá :pencil2: :bookmark_tabs: :iphone:
+### Olá :pencil2: :bookmark_tabs: :iphone:      
 - Valssíria Menezes
 
-Sou uma Programadora front-end, estou estudando e criando Projetos com as seguintes tecnologias:
-HTML5 CSS e estou iniciando o novo aprendizado com a ferramentas JAVASCRIPT e REACT.
+I'm a front-end programmer, I'm studying and creating projects with the following technologies: HTML5 CSS and I'm starting the new learning process with JAVASCRIPT and REACT tools.
 
-Meu foco é evoluí e aperfeiçoar mais meu estudo e criação de novos projetos.
+My focus is to evolve and improve my study and creation of new projects.
+
 
 <h2>Tecnologias Ultilizadas</h2>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
