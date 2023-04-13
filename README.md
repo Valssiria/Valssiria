@@ -1,5 +1,4 @@
-### Olá :pencil2: :bookmark_tabs: :iphone:      
-- Valssíria Menezes
+- Valssíria Menezes Ver mais
 
 I'm a front-end programmer, I'm studying and creating projects with the following technologies: HTML5 CSS and I'm starting the new learning process with JAVASCRIPT and REACT tools.
 
@@ -18,9 +17,7 @@ My focus is to evolve and improve my study and creation of new projects.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Estatísticas GitHub de Valssiria Menezes](https://github-readme-stats.vercel.app/api?username=valssiriaMenezes&show_icons=true&theme=synthwave)
- 
- 
+![Est
 
 
 
