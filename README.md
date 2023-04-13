@@ -18,7 +18,7 @@ My focus is to evolve and improve my study and creation of new projects.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Valssiria Meneze's GitHub stats](https://github-readme-stats.vercel.app/api?username=valssiria&show_icons=true&theme=synthwave)
+![Estatísticas GitHub de Valssiria Meneze](https://github-readme-stats.vercel.app/api?username=valssiriaMenezes&show_icons=true&theme=synthwave)
  
  
 
