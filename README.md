@@ -20,5 +20,5 @@ My focus is to evolve and improve my study and creation of new projects.
 
 
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Valssiria&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
