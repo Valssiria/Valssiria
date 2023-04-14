@@ -15,7 +15,7 @@ My focus is to evolve and improve my study and creation of new projects.
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Valssiria&show_icons=true&theme=dracula)
 
 
 
