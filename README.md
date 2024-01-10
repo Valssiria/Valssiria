@@ -7,7 +7,7 @@ My focus is to evolve and improve my study and creation of new projects.
 <h3> Connet with me:</h3>
 <a href="https://www.linkedin.com/in/valssiria-menezes"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 
-<a href="https://https://www.instagram.com/valssiriamenezes?igsh=bHg4cGsxNG1ubHpz"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://www.instagram.com/valssiriamenezes?igsh=bHg4cGsxNG1ubHpz"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 <h2>Tecnologias Ultilizadas</h2>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
