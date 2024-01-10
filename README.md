@@ -1,8 +1,11 @@
-- Valssíria Menezes 
+🚀 Valssíria Menezes 👩‍💻
 
-I'm a front-end programmer, I'm studying and creating projects with the following technologies: HTML5 CSS and I'm starting the new learning process with JAVASCRIPT and REACT tools.
+Sou uma desenvolvedora front-end, estou dedicando meu tempo de estudos e foco para treina e praticar e colocar tudo que eu aprendi na formação Dev Club, desenvolvendo os meus projetos e capacitando meus conhecimentos em práticas, utilizando as seguintes tecnologia que eu conheço e sei usar são elas: HTML5 a estrutura do site, CSS a estilização do site e o JAVASCRIPT é a peça importante do site para o usuário.
+Estou dedicado para a aprender novas tecnologias e capacitar meus conhecimentos e evoluir cada vez mais para alcançar o objetivo final "RESULTADO".
 
-My focus is to evolve and improve my study and creation of new projects.
+Estou estudando na formção Dev Club- fullstack pois a formção ensina muitas tecnologias e capacita seus alunos a crescer e desenvolver seus potencial para o mercado de trabalho. 
+
+
 
 <h3> Connet with me:</h3>
 <a href="https://www.linkedin.com/in/valssiria-menezes"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
