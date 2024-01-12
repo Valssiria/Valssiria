@@ -8,11 +8,10 @@ Estou estudando na formção Dev Club- fullstack pois a formção ensina muitas 
 
 
 <h3> Connet with me:</h3>
-<a href="https://www.linkedin.com/in/valssiria-menezes"> <img src="https://th.bing.com/th/id/OIP.BcGJ28XvsJUxjP6r7PC8twHaH1?pid=ImgDet&w=474&h=501&rs=1" width="80px" height="80px">  </a>
-<br>
-<a href="https://www.instagram.com/valssiriamenezes?igsh=bHg4cGsxNG1ubHpz"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<br>
-<a href="https://api.whatsapp.com/send?phone=5554993707481&text=deseja%20alguma%20informa%C3%A7%C3%A3o%20"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsap-logo" /></a> 
+<a href="https://www.linkedin.com/in/valssiria-menezes"><img src="https://1.bp.blogspot.com/-hT1hiFVYG3I/X8Iz7-KBLJI/AAAAAAAACns/X5XetOYZC-sKpITcSYdeRSytxW9KjOoJwCLcBGAsYHQ/s340/icons-842861__340.png" width="47px" height="47px"></a> 
+<a href="https://www.instagram.com/valssiriamenezes?igsh=bHg4cGsxNG1ubHpz">
+  <img src="https://th.bing.com/th/id/OIP.jVep9WO6HbFg2RuC2r1VDAHaHu?pid=ImgDet&w=474&h=494&rs=1" width="51px" height="51px"></a>
+<a href="https://api.whatsapp.com/send?phone=5554993707481&text=deseja%20alguma%20informa%C3%A7%C3%A3o%20"> <img src="https://img1.pnghut.com/21/6/14/2LFZFJvW4z/personalization-mobile-phones-web-page-android-symbol.jpg"  width="44px" height="44px" alt="whatsap-logo" /></a> 
 <br>
 
 <h2>Tecnologias Ultilizadas</h2>
