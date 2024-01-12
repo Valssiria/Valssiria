@@ -9,10 +9,11 @@ Estou estudando na formção Dev Club- fullstack pois a formção ensina muitas 
 
 <h3> Connet with me:</h3>
 <a href="https://www.linkedin.com/in/valssiria-menezes"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
-
+<br>
 <a href="https://www.instagram.com/valssiriamenezes?igsh=bHg4cGsxNG1ubHpz"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-
+<br>
 <a href="https://api.whatsapp.com/send?phone=5554993707481&text=deseja%20alguma%20informa%C3%A7%C3%A3o%20"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsap-logo" /></a> 
+<br>
 
 <h2>Tecnologias Ultilizadas</h2>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/>
