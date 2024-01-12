@@ -19,9 +19,6 @@ Estou estudando na formção Dev Club- fullstack pois a formção ensina muitas 
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="css-logo" />
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=red" alt="js-logo" />
 
-
-
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Valssiria&show_icons=true&theme=dracula)
 
 
