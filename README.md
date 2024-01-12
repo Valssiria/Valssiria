@@ -8,7 +8,7 @@ Estou estudando na formção Dev Club- fullstack pois a formção ensina muitas 
 
 
 <h3> Connet with me:</h3>
-<a href="https://www.linkedin.com/in/valssiria-menezes"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+<a href="https://www.linkedin.com/in/valssiria-menezes"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> <img src="https://th.bing.com/th/id/OIP.BcGJ28XvsJUxjP6r7PC8twHaH1?pid=ImgDet&w=474&h=501&rs=1" width="80px" height="80px">  </a>
 <br>
 <a href="https://www.instagram.com/valssiriamenezes?igsh=bHg4cGsxNG1ubHpz"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <br>
