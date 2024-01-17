@@ -1,9 +1,10 @@
 🚀 Valssíria Menezes 👩‍💻
 
-Sou uma desenvolvedora front-end, estou dedicando meu tempo de estudos e foco para treina e praticar e colocar tudo que eu aprendi na formação Dev Club, desenvolvendo os meus projetos e capacitando meus conhecimentos em práticas, utilizando as seguintes tecnologia que eu conheço e sei usar são elas: HTML5 a estrutura do site, CSS a estilização do site e o JAVASCRIPT é a peça importante do site para o usuário.
-Sou muito dedicada para aprender novas tecnologias e capacitar meus conhecimentos e evoluir cada vez mais para alcançar o objetivo final "RESULTADOS".
+Sou profissional agrego experiência em sistema desenvolvimento em front-end.
+No sistema front-end possuo uma experiência com as seguintes tecnologias: HTML5 a estrutura do sistema, CSS a estilização de quem é quem e qual cor colocar em um button, h1 e parágrafo e o JAVASCRIPT é a peça importante do sistema da programção para o usuário.
+Sou muito dedicada em aprender novas tecnologias, habilidade e evoluir para alcançar o objetivo final "RESULTADOS" de um trabalho bom!
 
-Estou estudando na formção Dev Club- fullstack pois a formção ensina muitas tecnologias e capacita seus alunos a crescer com qualidade e desenvolver seus potencial para o mercado de trabalho. 
+Qualidades em ATITUDES, POSITIVA, TRABALHO EM EQUIPE, VISÃO EM AJUDAR O PRÓXIMO, COOPERAÇÃO NAS ATIVIDADES EM GRUPOS, SOLUCIONAR PROBLEMAS, HUMILDE, CRENÇA E MENTALIDADES.
 
 
 
